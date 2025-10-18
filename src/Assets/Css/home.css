@@ -1,0 +1,17 @@
+.hero-wrap.style2 {
+  margin-top: 85px;
+}
+
+.hero-wrap.style2 {
+  position: relative;
+  background-image: url('../Images/banner.png');
+  height: 409px;
+  padding: 50px 0;
+}
+
+.bg-f {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #ddd;
+}
