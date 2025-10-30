@@ -2,9 +2,11 @@ import React from 'react'
 
 const Locations = () => {
   return (
-    <div>
-      Locations
-      Locations
+    <div className="page-wrapper">
+      <div>
+        Locations
+        Locations
+      </div>
     </div>
   )
 }

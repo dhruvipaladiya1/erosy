@@ -9,6 +9,7 @@ import 'font-awesome/css/font-awesome.min.css';
 
 // Import Css
 import './Assets/Css/header.css';
+import './Assets/Css/footer.css';
 import './Assets/Css/responsive.css';
 import './Assets/Css/home.css';
 
